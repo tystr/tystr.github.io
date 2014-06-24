@@ -6,6 +6,8 @@
         <title>{{ page.title }}</title>
         <meta name="author" content="Tyler Stroud">
         <meta name="viewport" content="width=device-width">
+        <meta name="keywords" content="{% for category in page.categories %} {{ category }} {% endfor %}">
+        
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
