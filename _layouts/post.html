@@ -7,7 +7,15 @@ permalink: pretty
 
 <div class="post">
 {{ content }}
-
+<div class="social-buttons">
+  <div class="social-button">
+    <div class="fb-share-button" data-href="http://tylerstroud.com{{ page.url }}" data-type="button_count"></div>
+  </div>
+  <div class="social-button">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="tylerstroud" data-related="tylerstroud">Tweet</a>
+  </div>
+</div>
+</div>
 <p>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -22,5 +30,7 @@ permalink: pretty
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>

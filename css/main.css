@@ -164,3 +164,14 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* Social share buttons */
+.social-buttons {
+  overflow: hidden;
+  line-height: 1em;
+}
+.social-button {
+  float: left;
+  width: 100px;
+  height: 20px;
+}
