@@ -4,7 +4,7 @@ title: Why I Ditched Capifony As A Deployment Tool
 date: 2014-06-24 00:07:57
 ---
 In this post I will explain how I use a few tools to deploy applications as OS packages (in this example, RPMs).
-I primarily deal with applications written in the <a href="http://www.symfony.com" target="_blank">Symfony2</a> PHP framework. One of the most popular tools for deployemnt
+I primarily deal with applications written in the <a href="http://www.symfony.com" target="_blank">Symfony2</a> PHP framework. One of the most popular tools for deployment
 in the symfony2 community is <a href="http://capifony.org" target="_blank">Capifony</a>. I implemented capifony into our continuous integration workflow without any real problems. Everyone one the development team can deploy by simply issuing
 a command, and any customization can be done by writing some ruby. However, as our infrastructure grew, it bacame clear that something like capifony wasn't really the best choice for my use case.
 
