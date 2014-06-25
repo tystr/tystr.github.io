@@ -5,12 +5,13 @@ date: 2014-06-24 00:07:57
 ---
 In this post I will explain how I use a few tools to deploy applications as OS packages (in this example, RPMs).
 I primarily deal with applications written in the <a href="http://www.symfony.com" target="_blank">Symfony2</a> PHP framework. One of the most popular tools for deployment
-in the symfony2 community is <a href="http://capifony.org" target="_blank">Capifony</a>. I implemented capifony into our continuous integration workflow without any real problems. Everyone one the development team can deploy by simply issuing
-a command, and any customization can be done by writing some ruby. However, as our infrastructure grew, it bacame clear that something like capifony wasn't really the best choice for my use case.
+in the symfony2 community is <a href="http://capifony.org" target="_blank">Capifony</a>. I implemented capifony into our continuous integration workflow without any real problems. Everyone on the development team can deploy by simply issuing
+a command (`cap production deploy`), and any customization can be done by writing some ruby. However, as our infrastructure grew, it became clear that something like capifony wasn't really the best choice for my use case.
 
 The typical way people use capifony (and similar tools) is to run something like `cap production deploy` which will ssh into each server hardcoded into your `production.rb` file, run a bunch of commands, etc. In a dynamic environment, this doesn't work as
-you need to figure out on the fly what the hostnames are for however many production servers happen to be up at the time of deployment. I could, of course, do this with some ruby (and I tested this out), but
-overall there was a bit too much customization required, and in the end I wasn't happy with the number of points of failure in the process.
+you need to figure out on the fly what the hostnames are for however many production servers happen to be up at the time of deployment. I could, of course, do this with some ruby (and I tested this out), but then there is still the issue that capifony
+by default runs a number of commands on each server (composer install, assets install, assetic dump, etc etc). I wasn't happy with the number of points of failure in the process. I found coercing capifony into performing all of these tasks in a temporary location locally before copying the files to the deploy target servers was
+a but too cumbersome for my taste.
 
 My solution? Package-based deployments.
 
