@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Autoscaling, Hostnames, and Puppet
+keywords: autoscaling puppet route53 aws ec2
 date: 2014-07-21 8:00:28
 ---
 One of the advantages of using a cloud provider such as Amazon Web Services is the flexibility to quickly terminate and create new instances. You can even do this automatically with autoscaling.
