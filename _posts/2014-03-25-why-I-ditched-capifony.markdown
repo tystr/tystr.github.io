@@ -12,7 +12,7 @@ a command (`cap production deploy`), and any customization can be done by writin
 The typical way people use capifony (and similar tools) is to run something like `cap production deploy` which will ssh into each server hardcoded into your `production.rb` file, run a bunch of commands, etc. In a dynamic environment, this doesn't work as
 you need to figure out on the fly what the hostnames are for however many production servers happen to be up at the time of deployment. I could, of course, do this with some ruby (and I tested this out), but then there is still the issue that capifony
 by default runs a number of commands on each server (composer install, assets install, assetic dump, etc etc). I wasn't happy with the number of points of failure in the process. I found coercing capifony into performing all of these tasks in a temporary location locally before copying the files to the deploy target servers was
-a but too cumbersome for my taste.
+a bit too cumbersome for my taste.
 
 My solution? Package-based deployments.
 
