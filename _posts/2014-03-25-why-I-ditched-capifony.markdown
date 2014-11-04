@@ -3,6 +3,7 @@ layout: post
 title: Why I Ditched Capifony As A Deployment Tool
 keywords: symfony2 symfony capifony capistrano devops deployment php
 date: 2014-06-23 00:07:57
+class: post
 ---
 In this post I will explain how I use a few tools to deploy applications as OS packages (in this example, RPMs).
 I primarily deal with applications written in the <a href="http://www.symfony.com" target="_blank">Symfony2</a> PHP framework. One of the most popular tools for deployment
