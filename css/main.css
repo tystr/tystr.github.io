@@ -63,12 +63,12 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
-.post {
-  font-size: 115%;
-  text-align: justify;
+.post-body {
   width: 64em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+}
+
+.post-body > h1 {
+    font-size: 130%;
 }
 
 .header a {
