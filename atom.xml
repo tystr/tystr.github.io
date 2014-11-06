@@ -1,0 +1,26 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title type="text" xml:lang="en">{{ site.root_desc }}</title>
+	<link type="application/atom+xml" href="http://tylerstroud.com/atom.xml" rel="self"/>
+ 	<link type="text" href="http://tylerstroud.com" rel="alternate"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://tylerstroud.com</id>
+	<author>
+		<name>Tyler Stroud</name>
+	</author>
+	<rights>Copyright (c) 2014 Tyler Stroud; all rights reserved.</rights>
+
+	{% for post in site.posts limit:20 %}
+	<entry>
+		<title>{{ post.title }}</title>
+		<link href="http://tylerstroud.com{{ post.url }}"/>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<id>http://tylerstroud.com{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}</content>
+	</entry>
+	{% endfor %}
+</feed>
