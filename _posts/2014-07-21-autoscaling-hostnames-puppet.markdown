@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Autoscaling, Hostnames, and Puppet
+summary: Automatically set hostnames and CNAME records for instances as they boot up. Connect/remove instances from the puppetmaster automatically on boot/shutdown.
 keywords: autoscaling puppet route53 aws ec2
 date: 2014-07-21 8:00:28
 class: post-body
