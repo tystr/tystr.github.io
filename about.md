@@ -1,19 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About Tyler
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+<p>Tyler is a software engineer living and working in sunny downtown san diego. He is currently the lead developer for
+the Email department of <a href="http://zeetomedia.com" target="_blank">Zeeto Media</a>.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+You can typically find him idling as "tystr" on freenode irc in <a href="irc://irc.freenode.net/symfony">#symfony</a>.
+</p>
