@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://tylerstroud.com"
 
 # Google analytics
-google_analytics: true
+google_analytics: UA-46741640-1
 
 # Optional features
 animated:           true
