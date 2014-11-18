@@ -15,7 +15,7 @@ Let's say we have a Car object that has some properties like "make", "model", "c
     OK
 
 ## Finding Objects by its id
-Notice that we've used `cars:1` as the key; in this case `1` is a unique identifier. It's up to the application to maintain unique Ids. So to look up a car by it's id, simply do
+Notice that we've used `cars:1` as the key; in this case `1` is a unique identifier. It's up to the application to maintain unique ids (Hint: You could use the <a target="_blank" href="http://redis.io/commands/INCR">INCR</a> command for id generation). So to look up a car by it's id, simply do
 
     redis 127.0.0.1:6379> HGETALL cars:1
     
@@ -37,7 +37,7 @@ To find all Ferraris that are yellow, we would intersect the sets `make:Ferrari`
 
     redis 127.0.0.1:6379> SINTER make:Ferrari color:Yellow
 
-To find all yello cars that are either Ferrari or Porsche:
+To find all yellow cars that are either Ferrari or Porsche:
 
     redis 127.0.0.1:6379> SUNION make:Ferrari make:Porsche color:Yellow
    
