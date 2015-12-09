@@ -3,7 +3,7 @@ layout: post
 title: Using Vagrant for Development
 summary: Vagrant facilitates a consistent, reproducible, and simple workflow for managing development environments.
 keywords: Vagrant
-date: 2015-12-08
+date: 2015-12-09
 class: post-body
 ---
 ## Why Use Vagrant?
