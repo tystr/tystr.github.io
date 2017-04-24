@@ -2,12 +2,12 @@
 title:       '"I think it might work"'
 email:       tyler@tylerstroud.com
 author:      Tyler Stroud
-description: "Software Engineer"
+description: '"I think it might work"'
 baseurl:     ""
 url:         "http://tylerstroud.com"
 
 # Google analytics
-google_analytics: UA-46741640-1
+google_tag_manager: GTM-W2BPL9J
 
 # Optional features
 animated:           true
