@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://tylerstroud.com"
 
 # Google analytics
-google_analytics: UA-46741640-1
+# DO NOT ADD HERE--GTM IS MANUALLY INCLUDED
 
 # Optional features
 animated:           true
