@@ -4,10 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-## Summary
 I am an accomplished technology leader experienced in taking business ideas and products from ideation to execution while focusing on profitability and growth.
 
-## Director of Engineering @ Tibrio, Oct 2016 - Present
+### Director of Engineering @ Tibrio, Oct 2016 - Present
 
 Acting as the de facto head of technology, I am responsible for growing and running the engineering and technology side of the business. Realizing and supporting the vision of the business with a strong emphasis on profitability is a primary goal of the engineering team. While working toward this goal, I am constantly cultivating an engineering culture where team members are engaged and advancing toward their own career goals.
 
@@ -19,7 +18,7 @@ Some of my responsibilities:
 * Ensuring CI/CD processes are in place
 
 
-## Director of Engineering @ Zeeto.io, July 2015 - Oct 2016
+### Director of Engineering @ Zeeto.io, July 2015 - Oct 2016
 
 Reporting directly to the VP of Engineering, I manage a growing engineering team and am responsible for the complete development lifecycle of our groundbreaking registration marketing SaaS platform. I work closely with the Devops, Business Intelligence, Data Science, and Optimization teams to lead product-focused engineering efforts. I oversee all infrastructure and code architecture decisions to ensure our various applications are scalable and resilient.
 
