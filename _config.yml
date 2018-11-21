@@ -1,13 +1,14 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       tylerstroud.com
+email:       tyler@tylerstroud.com
+author:      Tyler Stroud
+description: "Tyler Stroud"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://tylerstroud.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - blog.html
  - contact.html
 
 # Google services
@@ -15,7 +16,7 @@ google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
-google_tag_manager:
+google_tag_manager: GTM-W2BPL9J
 # Bing services
 bing_verification:
 
@@ -23,7 +24,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -38,7 +39,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: tylerstroud
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -51,16 +52,16 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: tystr
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: tylerstroud
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
-angellist_username:
+linkedin_username: tylerstroud
+angellist_username: tylerstroud
 medium_id:
 bitcoin_url:
 paypal_url:
@@ -85,6 +86,7 @@ text:
   pagination:
     newer: 'Newer'
     older: 'Older'
+
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -120,11 +122,13 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     4
+paginate_path: "/blog/page:num/"
 sass:
   style: compressed
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
