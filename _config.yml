@@ -4,7 +4,7 @@ email:       tyler@tylerstroud.com
 author:      Tyler Stroud
 description: "Tyler Stroud"
 baseurl:     ""
-url:         "http://tylerstroud.com"
+url:         "https://tylerstroud.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
