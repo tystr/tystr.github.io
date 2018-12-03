@@ -6,16 +6,9 @@ I am an accomplished technology leader experienced in taking business ideas and 
 
 #### Director of Engineering <br />Tibrio, Oct 2016 - Present
 
-Acting as the de facto head of technology, I am responsible for growing and running the engineering and technology side of the business. Realizing and supporting the vision of the business with a strong emphasis on profitability is a primary goal of the engineering team. While working toward this goal, I am constantly cultivating an engineering culture where team members are engaged and advancing toward their own career goals.
+As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production. Realizing and supporting the vision of the business with a strong emphasis on profitability is a primary goal of the engineering team. I am passionate about automated testing and code quality while still being able to build products quickly and efficiently.
 
-Some of my responsibilities:
-
-* Working closely with the CPO to take products from ideation to execution
-* Complete ownership over technology decisions within the business
-* Implementing agile software development practices to improve the amount and quality of work the engineering team is capable of producing
-* Cost/Benefit analysis to know when it's best to buy vs build
-* Ensuring CI/CD processes are in place
-
+I took ownership over technology decisions and implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
 
 #### Director of Engineering<br />Zeeto.io, July 2015 - Oct 2016
 
