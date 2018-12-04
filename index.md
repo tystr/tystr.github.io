@@ -23,3 +23,8 @@ Some responsibilities of mine:
 * Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested
 * Work closely with the product team to deliver quality products while following an agile-based workflow
 
+#### Senior Software Engineer<br />Zeeto.io, Oct 2011 - July 2015
+* Worked on architecture and development of our internal proprietary lead generation platform
+* Managed production infrastructure on AWS
+* Implemented automated deployments and built out our CI/CD pipeline
+
