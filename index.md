@@ -28,3 +28,10 @@ Some responsibilities of mine:
 * Managed production infrastructure on AWS
 * Implemented automated deployments and built out our CI/CD pipeline
 
+#### Developer<br />Applus+ RTD, May 2010 - Oct 2011
+Applus+ RTD is an international company specialized in non destructive testing and Inspections.
+I worked on a small team to administer on-site servers and to build software projects for clients.
+
+* Combine large amounts of geospatial data to build reports that tracked the inspection of oilfield pipelines.
+* Administer a network of windows and linux servers to host over a dozen client-facing websites.
+* Work with management (internal and 3rd party) to gather requirements and plan out software projects tailored specifically to the client's needs.
