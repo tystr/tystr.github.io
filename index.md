@@ -5,6 +5,7 @@ layout: default
 I am an accomplished technology leader experienced in taking business ideas and products from ideation to execution while focusing on profitability and growth.
 
 #### Director of Engineering <br />Tibrio, Oct 2016 - Present
+Tibrio connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and verious web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.
 
 As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production. Realizing and supporting the vision of the business with a strong emphasis on profitability is a primary goal of the engineering team. I am passionate about automated testing and code quality while still being able to build products quickly and efficiently.
 
