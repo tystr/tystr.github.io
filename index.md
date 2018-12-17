@@ -7,9 +7,9 @@ I am an accomplished technology leader experienced in taking business ideas and 
 # Director of Engineering <br />Tibrio, Oct 2016 - Present<br />New York City
 *Tibrio connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
-As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production. Realizing and supporting the vision of the business with a strong emphasis on profitability is a primary goal of the engineering team. I am passionate about automated testing and code quality while still being able to build products quickly and efficiently.
+As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production.
 
-I took ownership over technology decisions and implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
+I work alongside the CPO to scope and prioritize our product roadmap. I have implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I've implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
 
 # Director of Engineering<br />Zeeto.io, July 2015 - Oct 2016<br />San Diego, CA
 *Zeeto is an ad network that uses questions to discover data and then uses the answers to target ads.*
