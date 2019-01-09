@@ -4,6 +4,6 @@ title: About Tyler
 permalink: /about/
 ---
 
-<p>Tyler is a technology generalist and leader living and working in NYC. He is currently the Director of Engineering
+<p>Tyler is an accomplished technology leader buildling exciting things in NYC. He is currently the VP of Engineering 
 at <a href="http://tibrio.com" target="_blank">Tibrio</a>.
 </p>
