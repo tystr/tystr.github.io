@@ -4,7 +4,17 @@ layout: default
 
 I am an accomplished technology leader experienced in taking business ideas and products from ideation to execution while focusing on profitability and growth.
 
-# Director of Engineering <br />Tibrio, Oct 2016 - Present<br />New York City
+# VP of Engineering<br />Tibrio, Jan 2019 - Present<br />New York City
+*Tibrio connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
+
+I own all technology aspects of the business. I am responsible for the launch and success of our various web properties and ensuring our revenue goals are being reached.
+
+* Maintain our flagship property, GetItFree.us, which receives over 6M uniques each month.
+* Manage a distributed engineering team in the development and maintenance of our various web properties.
+* Operate infrastructure in AWS and physical servers in multiple datacenters.
+* Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
+
+# Director of Engineering <br />Tibrio, Oct 2016 - Jan 2019<br />New York City
 *Tibrio connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
 As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production.
