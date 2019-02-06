@@ -7,19 +7,17 @@ I am an accomplished technology leader experienced in taking business ideas and 
 # VP of Engineering<br />Tibrio (Zeeto.io), Jan 2019 - Present<br />New York City
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
-I own all technology aspects of the business. I am responsible for the launch and success of our various web properties and ensuring our revenue goals are being reached.
+# Director of Engineering <br />Tibrio (Zeeto.io), Oct 2016 - Jan 2019<br />New York City
+*<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
+
+I joined Tibrio as the first technical employee and hired a team of 6 engineers. As Tibrio's head of technology, I am responsible for the launch and success of our various web properties, most notably GetItFree.us and Samples.com, and ensuring our revenue goals are being reached.
+
+I work alongside the CPO to scope and prioritize our product roadmap. I have implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I've implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
 
 * Maintain our flagship property, GetItFree.us, which receives over 6M uniques each month.
 * Manage a distributed engineering team in the development and maintenance of our various web properties.
 * Operate infrastructure in AWS and physical servers in multiple datacenters.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
-
-# Director of Engineering <br />Tibrio (Zeeto.io), Oct 2016 - Jan 2019<br />New York City
-*<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
-
-As the de facto head of technology, I lead the business' engineering efforts in executing our goals and taking products from ideation to production.
-
-I work alongside the CPO to scope and prioritize our product roadmap. I have implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I've implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
 
 # Director of Engineering<br />Zeeto.io, July 2015 - Oct 2016<br />San Diego, CA
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
