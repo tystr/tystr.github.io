@@ -1,46 +1,79 @@
 ---
 layout: default
 ---
+<h1 class="center">VP / Director of Engineering</h1>
 
-I am an accomplished technology leader experienced in taking business ideas and products from ideation to execution while focusing on profitability and growth.
+# Summary
+<hr style="margin: 0 0 1rem 0">
+I am an accomplished technology leader experienced in leading teams and taking products from ideation to execution while focusing on profitability and growth. I am passionate about technology and code quality with expertise in software architecture and scale.
 
-# VP of Engineering<br />Tibrio (Zeeto.io), Jan 2019 - Present<br />New York City
+# Skills
+<hr style="margin: 0 0 1rem 0">
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Team leadership</li>
+      <li>Strategic product development</li>
+      <li>Technology strategy and roadmap</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Software architecture</li>
+      <li>OOP principles and best practices</li>
+      <li>Process and productivity improvement</li>
+    </ul>
+  </div>
+</div>
+
+# Experience
+<hr style="margin: 0 0 1rem 0">
+
+<div class="clearfix border">
+  <div class="col col-6 ">
+    <h1>VP / Director of Engineering<br/>Tibrio (Zeeto.io), New York City</h1>
+  </div>
+  <div class="col col-6 right-align"><h1>Oct 2016 - Jan 2019</h1></div>
+</div>
+
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
-# Director of Engineering <br />Tibrio (Zeeto.io), Oct 2016 - Jan 2019<br />New York City
-*<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
+I was brought into Tibrio to build and grow the engineering operations for the company. I hired a team of 6 and managed development following an agile development process. I work alongside the CPO to scope and prioritize our product and technology roadmap.
 
-I joined Tibrio as the first technical employee and hired a team of 6 engineers. As Tibrio's head of technology, I am responsible for the launch and success of our various web properties, most notably GetItFree.us and Samples.com, and ensuring our revenue goals are being reached.
-
-I work alongside the CPO to scope and prioritize our product roadmap. I have implemented agile software development practices to improve the amount and quality of work the engineering team is capable of producing. Additionally, I've implemented a CI/CD pipeline to facilitate efficient QA and deployments that are frequent and quick. 
-
+Key Accomplishments:
+* Launched a re-imagined concept for one of our sites and reached $50k monthly revenue in a matter of months
+* Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day and .
+* Implemented an agile development process to facilitate frequent releases and feedback from stakeholders
 * Maintain our flagship property, GetItFree.us, which receives over 6M uniques each month.
-* Manage a distributed engineering team in the development and maintenance of our various web properties.
 * Operate infrastructure in AWS and physical servers in multiple datacenters.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
 
-# Director of Engineering<br />Zeeto.io, July 2015 - Oct 2016<br />San Diego, CA
+{% include title_row.html title="Director of Engineering" company="Zeeto.io" start="Jul 2015" end="Oct 2016" location="San Diego, CA" %}
+
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
 
-Reporting directly to the VP of Engineering, I manage a growing engineering team and am responsible for the complete development lifecycle of our groundbreaking registration marketing SaaS platform. I work closely with the Devops, Business Intelligence, Data Science, and Optimization teams to lead product-focused engineering efforts. I oversee all infrastructure and code architecture decisions to ensure our various applications are scalable and resilient.
+Reporting directly to the CTO, I manage a growing engineering team and am responsible for the complete development lifecycle of our groundbreaking registration marketing SaaS platform. I work closely with the Devops, Business Intelligence, Data Science, and Optimization teams to lead product-focused engineering efforts. I oversee all infrastructure and code architecture decisions to ensure our various applications are scalable and resilient.
 
-I am passionate about building autonomous, product-focused engineering teams and empowering them to be successful.
-
-Some responsibilities of mine:
+Key Accomplishments:
 * Act as chief architect in the development of our proprietary lead routing platform
 * Own the Software Development Lifecycle (SDLC)
-* Own and maintain Reference Architecture documents
 * Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested
 * Work closely with the product team to deliver quality products while following an agile-based workflow
 
-# Senior Software Engineer<br />Zeeto.io, Oct 2011 - July 2015<br />San Diego, CA
+{% include title_row.html title="Senior Software Engineer" company="Zeeto.io" location="San Diego, CA" start="Oct 2011" end="Jul 2015" %}
+
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
 
-* Worked on architecture and development of our internal proprietary lead generation platform
-* Managed production infrastructure on AWS
-* Implemented automated deployments and built out our CI/CD pipeline
+I joined Zeeto as the second technical hire and was responsible for the redevelopment of our core data monetization platform.
 
-# Software Developer<br />Applus+ RTD, May 2010 - Oct 2011<br />Bakersfield, CA
+Key Accomplishments:
+* Introduced unit/functional testing and TDD methodologies to the business
+* Built CI/CD pipelines and automated deployments to our various environments
+* Worked on architecture and development of our inte
+
+{% include title_row.html title="Software Developer" company="Applus+ RTD" location="Bakersfield, CA" start="May 2010" end="Oct 2011" %}
+
 *<a href="https://www.applus.com" target="_blank">Applus+ RTD</a> is an international company specialized in non destructive testing and Inspections.*
 
 I worked on a small team to administer on-site servers and to build software projects for clients.
