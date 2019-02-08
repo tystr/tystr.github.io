@@ -39,14 +39,14 @@ I am an accomplished technology leader experienced in leading teams and taking p
 
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
-I was brought into Tibrio to build and grow the engineering operations for the company. I hired a team of 6 and managed development following an agile development process. I work alongside the CPO to scope and prioritize our product and technology roadmap.
+I was recruited into Tibrio to build and grow the engineering operations for the company. I hired a team of 6 and managed development following an agile development process. I work alongside the CPO to scope and prioritize our product and technology roadmap.
 
 Key Accomplishments:
+* Established a culture of product-focused engineering
+* Instituted code review and QA processes and implemented a CI/CD pipeline
+* Reduced AWS monthly costs by 52%
 * Launched a re-imagined concept for one of our sites and reached $50k monthly revenue in a matter of months
-* Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day and .
-* Implemented an agile development process to facilitate frequent releases and feedback from stakeholders
-* Maintain our flagship property, GetItFree.us, which receives over 6M uniques each month.
-* Operate infrastructure in AWS and physical servers in multiple datacenters.
+* Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
 
 {% include title_row.html title="Director of Engineering" company="Zeeto.io" start="Jul 2015" end="Oct 2016" location="San Diego, CA" %}
