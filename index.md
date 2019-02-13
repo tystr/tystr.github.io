@@ -16,13 +16,15 @@ I am an accomplished technology leader experienced in leading teams and taking p
       <li>Team leadership</li>
       <li>Strategic product development</li>
       <li>Technology strategy and roadmap</li>
+      <li>Process and productivity improvement</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
       <li>Software architecture</li>
-      <li>OOP principles and best practices</li>
-      <li>Process and productivity improvement</li>
+      <li>Object oriented programming</li>
+      <li>Distributed Systems</li>
+      <li>CI/CD Pipelines</li>
     </ul>
   </div>
 </div>
@@ -44,6 +46,27 @@ Key Accomplishments:
 * Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
 
+Technologies Used:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>PHP</li>
+      <li>Python</li>
+      <li>Node.js</li>
+      <li>AWS</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>RabbitMQ</li>
+      <li>MySQL</li>
+      <li>Redis</li>
+      <li>Elasticsearch</li>
+    </ul>
+  </div>
+</div>
+
 {% include title_row.html title="Director of Engineering" company="Zeeto.io" start="Jul 2015" end="Oct 2016" location="San Diego, CA" %}
 
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
@@ -56,6 +79,27 @@ Key Accomplishments:
 * Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested
 * Work closely with the product team to deliver quality products while following an agile-based workflow
 
+Technologies Used:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>PHP (Symfony)</li>
+      <li>MongoDB</li>
+      <li>MySQL</li>
+      <li>AWS</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>RabbitMQ</li>
+      <li>MySQL</li>
+      <li>Redis</li>
+      <li>Jenkins CI</li>
+    </ul>
+  </div>
+</div>
+
 {% include title_row.html title="Senior Software Engineer" company="Zeeto.io" location="San Diego, CA" start="Oct 2011" end="Jul 2015" %}
 
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
@@ -67,12 +111,53 @@ Key Accomplishments:
 * Built CI/CD pipelines and automated deployments to our various environments
 * Worked on architecture and development of our inte
 
+Technologies Used:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>PHP (Symfony)</li>
+      <li>MongoDB</li>
+      <li>MySQL</li>
+      <li>AWS</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>RabbitMQ</li>
+      <li>MySQL</li>
+      <li>Redis</li>
+      <li>Jenkins CI</li>
+    </ul>
+  </div>
+</div>
+
 {% include title_row.html title="Software Developer" company="Applus+ RTD" location="Bakersfield, CA" start="May 2010" end="Oct 2011" %}
 
 *<a href="https://www.applus.com" target="_blank">Applus+ RTD</a> is an international company specialized in non destructive testing and Inspections.*
 
 I worked on a small team to administer on-site servers and to build software projects for clients.
 
+Key Accomplishments:
 * Combine large amounts of geospatial data to build reports that tracked the inspection of oilfield pipelines.
 * Administer a network of windows and linux servers to host over a dozen client-facing websites.
 * Work with management (internal and 3rd party) to gather requirements and plan out software projects tailored specifically to the client's needs.
+
+Technologies Used:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>PHP</li>
+      <li>Linux</li>
+      <li>Apache</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>IIS</li>
+      <li>MySQL / MSSQL</li>
+      <li>VMWare ESXi</li>
+    </ul>
+  </div>
+</div>
