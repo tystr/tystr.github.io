@@ -23,8 +23,8 @@ I am an accomplished technology leader experienced in leading teams and taking p
     <ul>
       <li>Software architecture</li>
       <li>Object oriented programming</li>
-      <li>Distributed Systems</li>
-      <li>CI/CD Pipelines</li>
+      <li>Distributed systems</li>
+      <li>CI/CD pipelines</li>
     </ul>
   </div>
 </div>
