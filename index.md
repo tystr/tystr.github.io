@@ -17,6 +17,7 @@ I am an accomplished technology leader experienced in leading teams and taking p
       <li>Strategic product development</li>
       <li>Technology strategy and roadmap</li>
       <li>Process and productivity improvement</li>
+      <li>Project management</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
@@ -25,6 +26,7 @@ I am an accomplished technology leader experienced in leading teams and taking p
       <li>Object oriented programming</li>
       <li>Distributed systems</li>
       <li>CI/CD pipelines</li>
+      <li>Docker</li>
     </ul>
   </div>
 </div>
@@ -46,7 +48,7 @@ Key Accomplishments:
 * Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
 
-Technologies Used:
+Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
@@ -55,6 +57,7 @@ Technologies Used:
       <li>Python</li>
       <li>Node.js</li>
       <li>AWS</li>
+      <li>Docker</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
@@ -79,7 +82,7 @@ Key Accomplishments:
 * Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested
 * Work closely with the product team to deliver quality products while following an agile-based workflow
 
-Technologies Used:
+Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
@@ -88,6 +91,7 @@ Technologies Used:
       <li>MongoDB</li>
       <li>MySQL</li>
       <li>AWS</li>
+      <li>Docker</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
@@ -111,7 +115,7 @@ Key Accomplishments:
 * Built CI/CD pipelines and automated deployments to our various environments
 * Worked on architecture and development of our inte
 
-Technologies Used:
+Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
@@ -120,6 +124,7 @@ Technologies Used:
       <li>MongoDB</li>
       <li>MySQL</li>
       <li>AWS</li>
+      <li>Docker</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
@@ -143,7 +148,7 @@ Key Accomplishments:
 * Administer a network of windows and linux servers to host over a dozen client-facing websites.
 * Work with management (internal and 3rd party) to gather requirements and plan out software projects tailored specifically to the client's needs.
 
-Technologies Used:
+Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
