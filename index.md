@@ -100,6 +100,7 @@ Technologies:
       <li>MySQL</li>
       <li>Redis</li>
       <li>Jenkins CI</li>
+      <li>Java / Spring Boot</li>
     </ul>
   </div>
 </div>
