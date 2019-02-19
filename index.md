@@ -34,7 +34,7 @@ I am an accomplished technology leader experienced in leading teams and taking p
 # Experience
 <hr style="margin: 0 0 1rem 0">
 
-{% include title_row.html title="VP / Director of Engineering" company="Tibrio" start="Oct 2016" end="Current" location="New York City" %}
+{% include title_row.html title="VP / Director of Engineering" company="Tibrio" start="Oct 2016" end="Feb 2019" location="New York City" %}
 
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
