@@ -44,7 +44,7 @@ Key Accomplishments:
 * Established a culture of product-focused engineering
 * Instituted code review and QA processes and implemented a CI/CD pipeline
 * Reduced AWS monthly costs by 52%
-* Launched a re-imagined concept for one of our sites and reached $50k monthly revenue in a matter of months
+* Launched a re-imagined concept for one of our sites, increasing monthly revenue by $50k
 * Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
 
