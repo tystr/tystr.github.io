@@ -34,6 +34,30 @@ I am an accomplished technology leader experienced in leading teams and taking p
 # Experience
 <hr style="margin: 0 0 1rem 0">
 
+{% include title_row.html title="Software Engineering Manager" company="Conductor" start="April 2019" end="Current" location="New York City" %}
+
+I manage a globally-distributed software engineering team responsible for buildling robust, scalable CI/CD tooling.
+
+<hr style="margin: 0 0 1rem 0">
+
+Technologies:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Java</li>
+      <li>AWS</li>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Cucumber</li>
+    </ul>
+  </div>
+</div>
+
 {% include title_row.html title="VP / Director of Engineering" company="Tibrio" start="Oct 2016" end="Feb 2019" location="New York City" %}
 
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
