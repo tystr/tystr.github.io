@@ -34,9 +34,9 @@ I am an accomplished technology leader experienced in leading teams and taking p
 # Experience
 <hr style="margin: 0 0 1rem 0">
 
-{% include title_row.html title="Software Engineering Manager" company="Conductor" start="April 2019" end="Current" location="New York City" %}
+{% include title_row.html title="Engineering Manager" company="Conductor" start="Apr 2019" end="Current" location="New York City" %}
 
-I manage a distributed engineering team tasked with supporting product development. I am responsible for enabling the product and engineering organization to test and release software internally and to our customers.
+I manage a distributed engineering team responsible for test infrastructure and product delivery for over a dozen feature teams working with a polyglot technology stack.
 
 Key Accomplishments:
 * Facilitated code quality improvements by introducing code analysis to the CI/CD pipeline for the entire engineering organization.
