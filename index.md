@@ -36,7 +36,11 @@ I am an accomplished technology leader experienced in leading teams and taking p
 
 {% include title_row.html title="Software Engineering Manager" company="Conductor" start="April 2019" end="Current" location="New York City" %}
 
-I manage a globally-distributed software engineering team responsible for buildling robust, scalable CI/CD tooling.
+I manage a distributed engineering team tasked with supporting product development. I am responsible for enabling the product and engineering organization to test and release software internally and to our customers.
+
+Key Accomplishments:
+* Facilitated code quality improvements by introducing code analysis to the CI/CD pipeline for the entire engineering organization.
+* Introduced on-demand environments to better support accept testing.
 
 <hr style="margin: 0 0 1rem 0">
 
@@ -53,6 +57,8 @@ Technologies:
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
+      <li>Jenkins</li>
+      <li>Sonarqube</li>
       <li>Cucumber</li>
     </ul>
   </div>
