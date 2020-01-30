@@ -144,7 +144,7 @@ I joined Zeeto as the second technical hire and was responsible for the redevelo
 Key Accomplishments:
 * Introduced unit/functional testing and TDD methodologies to the business
 * Built CI/CD pipelines and automated deployments to our various environments
-* Worked on architecture and development of our internal data monetization and lead generation plaform
+* Worked on architecture and development of our internal data monetization and lead generation platform
 
 Technologies:
 
