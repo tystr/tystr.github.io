@@ -40,7 +40,7 @@ I manage a distributed engineering team responsible for test infrastructure and 
 
 Key Accomplishments:
 * Facilitated code quality improvements by introducing code analysis to the CI/CD pipeline for the entire engineering organization.
-* Introduced on-demand environments to better support acceptance testing.
+* Introduced on-demand environments to better support acceptance testing and reduced time to production.
 
 <hr style="margin: 0 0 1rem 0">
 
