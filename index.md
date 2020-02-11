@@ -68,7 +68,7 @@ Technologies:
 
 *<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
-I was recruited into Tibrio to build and grow the engineering operations for the company. I hired a team of 6 and managed development following an agile development process. I work alongside the CPO to scope and prioritize our product and technology roadmap.
+I was recruited into Tibrio to build and grow the engineering and technology operations for the company. Partnering with the CPO, I scoped and prioritized our product and technology roadmap. I hired a lean team of 6 and used an agile development process to iterate on our consumer-facing web properties, optimizing for conversions, engagement, and revenue. 
 
 Key Accomplishments:
 * Established a culture of product-focused engineering
