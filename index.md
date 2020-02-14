@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<h1 class="center">VP / Director of Engineering</h1>
+<h1 class="center">Head of Engineering</h1>
 
 # Summary
 <hr style="margin: 0 0 1rem 0">
-I am an accomplished technology leader experienced in leading teams and taking products from ideation to execution while focusing on profitability and growth. I am passionate about technology and code quality with expertise in software architecture and scale.
+I am an accomplished, data-focused, and strategic technology leader experienced in taking products from ideation to execution. I have successfully built and scaled products and teams in high-growth, fast-paced startup environments while focusing on profitability and growth.
 
 # Skills
 <hr style="margin: 0 0 1rem 0">
