@@ -64,9 +64,9 @@ Technologies:
   </div>
 </div>
 
-{% include title_row.html title="VP / Director of Engineering" company="Tibrio" start="Oct 2016" end="Feb 2019" location="New York City" %}
+{% include title_row.html title="VP / Director of Engineering" company="Tibrio (formerly part of Zeeto)" start="Oct 2016" end="Feb 2019" location="New York City" %}
 
-*<a href="https://www.tibrio.com" target="_blank">Tibrio</a> connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
+*<a href="https://www.tibrio.com" target="_blank">Tibrio</a>, a spinout from <a href="https://zeeto.io">Zeeto</a>, connects advertisers with targeted, first-party audiences that are ripe for monetization. Through its proprietary technology and various web properties, Tibrio acquires over 100k new users every day, sells 1+ million leads each day, and sends 2+ billion emails per year.*
 
 I was recruited into Tibrio to build and grow the engineering and technology operations for the company. Partnering with the CPO, I scoped and prioritized our product and technology roadmap. I hired a lean team of 6 and used an agile development process to iterate on our consumer-facing web properties, optimizing for conversions, engagement, and revenue. 
 
@@ -100,7 +100,7 @@ Technologies:
   </div>
 </div>
 
-{% include title_row.html title="Director of Engineering" company="Zeeto.io" start="Jul 2015" end="Oct 2016" location="San Diego, CA" %}
+{% include title_row.html title="Director of Engineering" company="Zeeto" start="Jul 2015" end="Oct 2016" location="San Diego, CA" %}
 
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
 
@@ -135,7 +135,7 @@ Technologies:
   </div>
 </div>
 
-{% include title_row.html title="Senior Software Engineer" company="Zeeto.io" location="San Diego, CA" start="Oct 2011" end="Jul 2015" %}
+{% include title_row.html title="Senior Software Engineer" company="Zeeto" location="San Diego, CA" start="Oct 2011" end="Jul 2015" %}
 
 *<a href="https://zeeto.io" target="_blank">Zeeto</a> is an ad network that uses questions to discover data and then uses the answers to target ads.*
 
