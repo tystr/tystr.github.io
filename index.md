@@ -33,8 +33,10 @@ I am an accomplished, data-focused, and strategic technology leader experienced 
 
 # Experience
 <hr style="margin: 0 0 1rem 0">
+{% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="Current" location="New York City" %}
 
-{% include title_row.html title="Engineering Manager" company="Conductor" start="Apr 2019" end="Current" location="New York City" %}
+
+{% include title_row.html title="Engineering Manager" company="Conductor" start="Apr 2019" end="June 2020" location="New York City" %}
 
 I manage a distributed engineering team responsible for test infrastructure and product delivery for over a dozen feature teams working with a polyglot technology stack.
 
