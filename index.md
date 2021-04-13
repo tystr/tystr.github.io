@@ -33,7 +33,10 @@ I am an accomplished, data-focused, and strategic technology leader experienced 
 
 # Experience
 <hr style="margin: 0 0 1rem 0">
-{% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="Current" location="New York City" %}
+{% include title_row.html title="Director of Software Engineering" company="What If Media Group" start="April 2021" end="Current" location="New York City" %}
+
+
+{% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="April 2021" location="New York City" %}
 
 
 {% include title_row.html title="Engineering Manager" company="Conductor" start="Apr 2019" end="June 2020" location="New York City" %}
