@@ -33,10 +33,11 @@ I am an accomplished, data-focused, and strategic technology leader experienced 
 
 # Experience
 <hr style="margin: 0 0 1rem 0">
-{% include title_row.html title="Director of Software Engineering" company="What If Media Group" start="Apr 2021" end="Current" location="New York City" %}
+{% include title_row.html title="VP of Engineering" company="What If Media Group" start="Feb 2022" end="Current" location="New York City" %}
 
 *<a href="https://www.whatifmediagroup.com" target="_blank">What If Media Group</a> is a leading advertising technology company that, with their secure, proprietary media and marketing channels, drives consumer acquisition through a combination of AI, first-party data, and insights.*
 
+{% include title_row.html title="Director of Software Engineering" company="What If Media Group" start="Apr 2021" end="Feb 2022" location="New York City" %}
 
 {% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="Apr 2021" location="New York City" %}
 
