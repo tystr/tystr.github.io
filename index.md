@@ -37,6 +37,8 @@ I am an accomplished, data-focused, and strategic technology leader experienced 
 
 *<a href="https://www.whatifmediagroup.com" target="_blank">What If Media Group</a> is a leading advertising technology company that, with their secure, proprietary media and marketing channels, drives consumer acquisition through a combination of AI, first-party data, and insights.*
 
+I oversee the Product Engineering department and am responsible for the planning and execution of our product roadmap supporting our first-party sites, list-management, and messaging (email/sms/push) capabilities.
+
 {% include title_row.html title="Director of Software Engineering" company="What If Media Group" start="Apr 2021" end="Feb 2022" location="New York City" %}
 
 {% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="Apr 2021" location="New York City" %}
