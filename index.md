@@ -38,7 +38,7 @@ I am a product-minded, data-focused, and strategic technology leader. I am exper
 
 *<a href="https://www.whatifmediagroup.com" target="_blank">What If Media Group</a> is a leading advertising technology company that, with their secure, proprietary media and marketing channels, drives consumer acquisition through a combination of AI, first-party data, and insights.*
 
-I oversee 4 teams which comprise the Product Engineering department. In this role, I am responsible for the planning and execution of the product roadmap supporting our first-party sites, list-management, and messaging (email/sms/push) capabilities.
+I oversee 4 teams which comprise the Product Engineering department. In this role I am responsible for the planning and execution of the product roadmap supporting our first-party sites, list-management, and messaging (email/sms/push) capabilities.
 
 Key Accomplishments:
 * Delivered a reimagined internal CMS that was scoped and built around users' workflows resulting in fewer errors and many hours saved
