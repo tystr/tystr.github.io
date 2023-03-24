@@ -5,7 +5,7 @@ layout: default
 
 # Summary
 <hr style="margin: 0 0 1rem 0">
-I am a product-minded, data-focused, and strategic technology leader. I am experienced in managing multiple teams to deliver product roadmaps that incrementally provide value to the business. 
+I am a product-minded, data-focused, and strategic technology leader. I am experienced in buildling and managing teams to plan and deliver product roadmaps that incrementally provide value to the business. 
 
 
 # Skills
@@ -38,18 +38,92 @@ I am a product-minded, data-focused, and strategic technology leader. I am exper
 
 *<a href="https://www.whatifmediagroup.com" target="_blank">What If Media Group</a> is a leading advertising technology company that, with their secure, proprietary media and marketing channels, drives consumer acquisition through a combination of AI, first-party data, and insights.*
 
-I oversee 4 teams which comprise the Product Engineering department. In this role I am responsible for the planning and execution of the product roadmap supporting our first-party sites, list-management, and messaging (email/sms/push) capabilities.
+I oversee 4 teams which comprise the Product Engineering department. In this role I am responsible for the planning and execution of the product roadmap supporting our first-party sites, list-management, and messaging (email/SMS/push) capabilities.
 
 Key Accomplishments:
-* Delivered a reimagined internal CMS that was scoped and built around users' workflows resulting in fewer errors and many hours saved
-* Introduced agile development workflows, and rolled these out across the entire product engineering department
-* Built a near-realtime event stream to bridge the gap between disparate systems and replace periodic batch jobs with realtime consumers
+* Delivered portions of a reimagined internal CMS that was scoped and built around users' workflows resulting in fewer errors and many hours saved. This was a modernization effort and was built using a service-oriented architecture on top of a constellation of existing legacy backend services and newly built services.
+* I rolled out agile development practices across the entire product engineering department, greatly increasing the department's efficiency and productivity.
+* Built a near-realtime event stream to bridge the gap between disparate systems and replace periodic batch jobs with realtime consumers.
 
+<hr style="margin: 0 0 1rem 0">
+
+Technologies:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>AWS</li>
+      <li>Java / Python / Ruby (Rails) / Node.js</li>
+      <li>JavaScript / TypeScript / React.js</li>
+      <li>PostgreSQL / DynamoDB / MongoDB</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Kafka</li>
+      <li>Redis</li>
+      <li>Docker / Kubernetes</li>
+    </ul>
+  </div>
+</div>
 {% include title_row.html title="Director of Software Engineering" company="What If Media Group" start="Apr 2021" end="Feb 2022" location="New York City" %}
 
+I manage multiple teams working in concert to deliver scalable solutions that support the product roadmap.
+
+Key Accomplishments
+* Launched and managed a new engineering team responsible for cross-team data pipeline and data transformation projects.
+* Built a new service that acted as a single source of truth for tens of millions of users' data and received and processed millions of events daily.
+* Maintained a high-standard of code quality through encouraging tracking of quality metrics and testing.
+
+<hr style="margin: 0 0 1rem 0">
+
+Technologies:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>AWS</li>
+      <li>Java / JavaScript / React.js / Python / Go</li>
+      <li>PostgreSQL / MongoDB / DynamoDB</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Kafka</li>
+      <li>Redis</li>
+      <li>Docker / Kubernetes</li>
+    </ul>
+  </div>
+</div>
 {% include title_row.html title="Senior Engineering Manager" company="What If Media Group" start="June 2020" end="Apr 2021" location="New York City" %}
 
+I run the team responsible for the applications supporting the acquisition of hundreds of thousands of users daily.
 
+Key Accomplishments:
+* Introduced agile development methodology to the organization.
+* Established monitoring and alerting around baseline performance metrics.
+* Improved the team's ability to deliver milestones within the committed time and with fewer bugs.
+
+<hr style="margin: 0 0 1rem 0">
+
+Technologies:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>AWS</li>
+      <li>Java / JavaScript / React.js / Python / Go</li>
+      <li>PostgreSQL</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>Redis</li>
+      <li>Docker / Kubernetes</li>
+      <li>Jenkins</li>
+    </ul>
+  </div>
+</div>
 {% include title_row.html title="Engineering Manager" company="Conductor" start="Apr 2019" end="June 2020" location="New York City" %}
 
 I manage a distributed engineering team responsible for test infrastructure and product delivery for over a dozen feature teams working with a polyglot technology stack.
@@ -65,17 +139,18 @@ Technologies:
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>Java</li>
       <li>AWS</li>
-      <li>Docker</li>
-      <li>Kubernetes</li>
+      <li>Java / Scala / Python / Go</li>
+      <li>JavaScript / TypeScript / React.js</li>
+      <li>MySQL</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>Jenkins</li>
-      <li>Sonarqube</li>
+      <li>Docker / Kubernetes</li>
       <li>Cucumber</li>
+      <li>Selenium</li>
+      <li>Jenkins</li>
     </ul>
   </div>
 </div>
@@ -87,9 +162,9 @@ Technologies:
 I was recruited into Tibrio to build and grow the engineering and technology operations for the company. Partnering with the CPO, I scoped and prioritized our product and technology roadmap. I hired a lean team of 6 and used an agile development process to iterate on our consumer-facing web properties, optimizing for conversions, engagement, and revenue. 
 
 Key Accomplishments:
-* Established a culture of product-focused engineering
-* Instituted code review and QA processes and implemented a CI/CD pipeline
-* Reduced AWS monthly costs by 52%
+* Established a culture of product-focused engineering.
+* Instituted code review and QA processes and implemented a CI/CD pipeline.
+* Reduced AWS monthly costs by 52% through capacity planning, right-sizing our infrastructure, and autoscaling.
 * Launched a re-imagined concept for one of our sites, increasing monthly revenue by $50k
 * Minimized email delivery costs by building a proprietary email marketing solution responsible for ~5M emails per day.
 * Collaborate with the rest of the executive team to determine project scope and identify meaningful KPIs and ensure those KPIs are met.
@@ -99,19 +174,18 @@ Technologies:
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>PHP</li>
-      <li>Python</li>
-      <li>Node.js</li>
       <li>AWS</li>
+      <li>PHP / Python / Node.js</li>
+      <li>MySQL</li>
       <li>Docker</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
       <li>RabbitMQ</li>
-      <li>MySQL</li>
       <li>Redis</li>
       <li>Elasticsearch</li>
+      <li>Selenium</li>
     </ul>
   </div>
 </div>
@@ -123,30 +197,29 @@ Technologies:
 Reporting directly to the CTO, I manage a growing engineering team and am responsible for the complete development lifecycle of our groundbreaking registration marketing SaaS platform. I work closely with the Devops, Business Intelligence, Data Science, and Optimization teams to lead product-focused engineering efforts. I oversee all infrastructure and code architecture decisions to ensure our various applications are scalable and resilient.
 
 Key Accomplishments:
-* Act as chief architect in the development of our proprietary lead routing platform
+* Act as chief architect in the development of our proprietary lead routing platform. This effectively saved over $60k by not having to rely on a 3rd party tool for lead delivery.
 * Own the Software Development Lifecycle (SDLC)
-* Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested
-* Work closely with the product team to deliver quality products while following an agile-based workflow
+* Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested. This resulted in fewer defects released to production.
+* Work closely with the product team to deliver quality products while following an agile-based workflow.
 
 Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>PHP (Symfony)</li>
-      <li>MongoDB</li>
-      <li>MySQL</li>
       <li>AWS</li>
+      <li>PHP / Java</li>
+      <li>MySQL / MongoDB</li>
+      <li>Selenium</li>
       <li>Docker</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
+      <li>Mesosphere DC/OS</li>
       <li>RabbitMQ</li>
-      <li>MySQL</li>
       <li>Redis</li>
       <li>Jenkins CI</li>
-      <li>Java / Spring Boot</li>
     </ul>
   </div>
 </div>
@@ -158,26 +231,25 @@ Technologies:
 I joined Zeeto as the second technical hire and was responsible for the redevelopment of our core data monetization platform.
 
 Key Accomplishments:
-* Introduced unit/functional testing and TDD methodologies to the business
-* Built CI/CD pipelines and automated deployments to our various environments
-* Worked on architecture and development of our internal data monetization and lead generation platform
+* Introduced unit/functional testing and TDD methodologies to the business.
+* Built CI/CD pipelines and automated deployments to our various environments, decreasing effort and time required to execute deployments.
+* Worked on architecture and development of our internal data monetization and lead generation platform.
+* Took over ownership of the provisioning and management of infrastructure on AWS
 
 Technologies:
 
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>PHP (Symfony)</li>
-      <li>MongoDB</li>
-      <li>MySQL</li>
       <li>AWS</li>
-      <li>Docker</li>
+      <li>PHP (Symfony framework)</li>
+      <li>MongoDB / MySQL</li>
+      <li>Behat / Selenium</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
     <ul>
       <li>RabbitMQ</li>
-      <li>MySQL</li>
       <li>Redis</li>
       <li>Jenkins CI</li>
     </ul>
