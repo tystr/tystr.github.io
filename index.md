@@ -43,7 +43,7 @@ I oversee 4 teams which comprise the Product Engineering department. In this rol
 Key Accomplishments:
 * Delivered portions of a reimagined internal CMS that was scoped and built around users' workflows resulting in fewer errors and many hours saved. This was a modernization effort and was built using a service-oriented architecture on top of a constellation of existing legacy backend services and newly built services.
 * I rolled out agile development practices across the entire product engineering department, greatly increasing the department's efficiency and productivity.
-* Built a near-realtime event stream to bridge the gap between disparate systems and replace periodic batch jobs with realtime consumers.
+* Built a near-real time event stream to bridge the gap between disparate systems and replace periodic batch jobs with real time data processing.
 
 <hr style="margin: 0 0 1rem 0">
 
@@ -101,7 +101,7 @@ I run the team responsible for the applications supporting the acquisition of hu
 
 Key Accomplishments:
 * Introduced agile development methodology to the organization.
-* Established monitoring and alerting around baseline performance metrics.
+* Established monitoring and alerting around baseline performance metrics, decreasing the team’s response time to production issues and ensuring new releases did not degrade performance.
 * Improved the team's ability to deliver milestones within the committed time and with fewer bugs.
 
 <hr style="margin: 0 0 1rem 0">
@@ -198,7 +198,7 @@ Reporting directly to the CTO, I manage a growing engineering team and am respon
 
 Key Accomplishments:
 * Act as chief architect in the development of our proprietary lead routing platform. This effectively saved over $60k by not having to rely on a 3rd party tool for lead delivery.
-* Own the Software Development Lifecycle (SDLC)
+* Assumed ownership over the Software Development Lifecycle (SDLC)
 * Enforce code reviews, ensuring that code meets quality standards and is thoroughly tested. This resulted in fewer defects released to production.
 * Work closely with the product team to deliver quality products while following an agile-based workflow.
 
@@ -231,7 +231,7 @@ Technologies:
 I joined Zeeto as the second technical hire and was responsible for the redevelopment of our core data monetization platform.
 
 Key Accomplishments:
-* Introduced unit/functional testing and TDD methodologies to the business.
+* Introduced unit/functional testing and TDD methodologies to the business resulting in fewer bugs in production.
 * Built CI/CD pipelines and automated deployments to our various environments, decreasing effort and time required to execute deployments.
 * Worked on architecture and development of our internal data monetization and lead generation platform.
 * Took over ownership of the provisioning and management of infrastructure on AWS
