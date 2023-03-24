@@ -62,6 +62,7 @@ Technologies:
     <ul>
       <li>Kafka</li>
       <li>Redis</li>
+      <li>Snowflake</li>
       <li>Docker / Kubernetes</li>
     </ul>
   </div>
@@ -85,6 +86,7 @@ Technologies:
       <li>AWS</li>
       <li>Java / JavaScript / React.js / Python / Go</li>
       <li>PostgreSQL / MongoDB / DynamoDB</li>
+      <li>Snowflake</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
@@ -114,6 +116,7 @@ Technologies:
       <li>AWS</li>
       <li>Java / JavaScript / React.js / Python / Go</li>
       <li>PostgreSQL</li>
+      <li>Snowflake</li>
     </ul>
   </div>
   <div class="sm-col sm-col-6 border">
