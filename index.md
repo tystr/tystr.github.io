@@ -5,7 +5,7 @@ layout: default
 
 # Summary
 <hr style="margin: 0 0 1rem 0">
-I am a product-minded, data-focused, and strategic technology leader. I am experienced in buildling and managing teams to plan and deliver product roadmaps that incrementally provide value to the business. 
+I am a product-minded, data-focused, and strategic technology leader. I am experienced in building and managing teams to plan and deliver product roadmaps that incrementally provide value to the business. 
 
 
 # Skills
