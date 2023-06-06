@@ -14,7 +14,7 @@ I am a product-minded, data-focused, and strategic technology leader. I am exper
 <div class="clearfix border">
   <div class="sm-col sm-col-6 border">
     <ul>
-      <li>Team leadership</li>
+      <li>Team leadership and performance management</li>
       <li>Strategic product development</li>
       <li>Technology strategy and roadmap</li>
       <li>Process and productivity improvement</li>
