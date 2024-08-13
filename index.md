@@ -5,8 +5,7 @@ layout: default
 
 # Summary
 <hr style="margin: 0 0 1rem 0">
-I am a product-minded, data-focused, and strategic technology leader. I am experienced in building and managing teams to plan and deliver product roadmaps that incrementally provide value to the business. 
-
+Tyler is a seasoned technology executive with a proven track record of delivering success through results-driven, product-focused, engineering leadership. He has built, led, and scaled teams in larger organizations as well as in smaller, high-growth startup environments.
 
 # Skills
 <hr style="margin: 0 0 1rem 0">
