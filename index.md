@@ -33,6 +33,34 @@ Tyler is a seasoned technology executive with a proven track record of deliverin
 
 # Experience
 <hr style="margin: 0 0 1rem 0">
+{% include title_row.html title="VP of Engineering" company="OTTO Quotes" start="Sept 2023" end="Current" location="Miami, FL (Remote)" %}
+
+*<a href="https://ottoquotes.ai" target="_blank">OTTO Quotes</a> generates, manages, and optimizes quality, ready-to-close, exclusive insurance leads directly to agents and carriers in real-time. We are a digital broker for Auto, Home, Pet, Final Expense, and Life Insurance*
+
+I oversee the roadmap and development of our first-party lead-generation websites and our proprietary lead-routing and distribution platform 
+
+<hr style="margin: 0 0 1rem 0">
+
+Technologies:
+
+<div class="clearfix border">
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>AWS</li>
+      <li>PHP / Python / Node.js</li>
+      <li>JavaScript / TypeScript / React.js / Next.js</li>
+    </ul>
+  </div>
+  <div class="sm-col sm-col-6 border">
+    <ul>
+      <li>MySQL</li>
+      <li>Redis</li>
+    </ul>
+  </div>
+</div>
+
+
+<hr style="margin: 0 0 1rem 0">
 {% include title_row.html title="VP of Engineering" company="What If Media Group" start="Feb 2022" end="March 2023" location="New York City" %}
 
 *<a href="https://www.whatifmediagroup.com" target="_blank">What If Media Group</a> is a leading advertising technology company that, with their secure, proprietary media and marketing channels, drives consumer acquisition through a combination of AI, first-party data, and insights.*
