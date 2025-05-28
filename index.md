@@ -33,9 +33,9 @@ Tyler is a seasoned technology executive with a proven track record of deliverin
 
 # Experience
 <hr style="margin: 0 0 1rem 0">
-{% include title_row.html title="VP of Engineering" company="OTTO Quotes" start="Sept 2023" end="Current" location="Miami, FL (Remote)" %}
+{% include title_row.html title="VP of Engineering" company="OTTO Quotes AI" start="Sept 2023" end="May 2025" location="Miami, FL (Remote)" %}
 
-*<a href="https://ottoquotes.ai" target="_blank">OTTO Quotes</a> generates, manages, and optimizes quality, ready-to-close, exclusive insurance leads directly to agents and carriers in real-time. We are a digital broker for Auto, Home, and Pet insurance.*
+*<a href="https://ottoquotes.ai" target="_blank">OTTO Quotes AI</a> generates, manages, and optimizes quality, ready-to-close, exclusive insurance leads directly to agents and carriers in real-time. We are a digital broker for Auto, Home, and Pet insurance.*
 
 I oversee product and development of OTTO's proprietary lead generation platform, owning the roadmap for the automated media buying, real-time bidding, and real-time funnel testing tools which facilitate selling leads and clicks to buyers.
 
@@ -54,6 +54,7 @@ Technologies:
   <div class="sm-col sm-col-6 border">
     <ul>
       <li>AWS</li>
+      <li>Vercel</li>
       <li>PHP / Python / Node.js</li>
       <li>JavaScript / TypeScript / React.js / Next.js</li>
     </ul>
