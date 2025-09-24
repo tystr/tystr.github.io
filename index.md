@@ -5,7 +5,7 @@ layout: default
 
 # Summary
 <hr style="margin: 0 0 1rem 0">
-Tyler is a seasoned technology executive with a proven track record of delivering success through results-driven, product-focused, engineering leadership. He has built, led, and scaled teams in larger organizations as well as in smaller, high-growth startup environments.
+Tyler is a seasoned technology executive with a proven track record of delivering success through results-driven, product-focused engineering leadership. A veteran in the Ad-Tech space, Tyler has built products at scale providing real-time bidding and programmatic media capabilities, ad inventory managemement, A/B and multivariate testing, lead generation and distribution, and email/SMS/push messaging.
 
 # Skills
 <hr style="margin: 0 0 1rem 0">
