@@ -45,6 +45,7 @@ Key Accomplishments:
 * Reduced AWS cost through right-sizing resources and strategic vendor relationships
 * Grew the team by 13%, hiring key positions to increase productivity
 * Oversaw the technical implementation of our remarketing program, driving millions of users back to our properties via compliant email and SMS messaging.
+* Launched a new outbound call/warm transfer product
 
 <hr style="margin: 0 0 1rem 0">
 
