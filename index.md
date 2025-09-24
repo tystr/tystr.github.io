@@ -41,7 +41,7 @@ I oversee product and development of OTTO's proprietary lead generation platform
 
 
 Key Accomplishments:
-* Enhanced programmatic media buying capabilities, optimizing how the system bids on traffic leading to 112% revenue growth and higher conversion rates
+* Enhanced programmatic media buying capabilities and optimized bid strategies leading to 112% revenue growth and higher conversion rates
 * Reduced AWS cost through right-sizing resources and strategic vendor relationships
 * Grew the team by 13%, hiring key positions to increase productivity
 * Oversaw the technical implementation of our remarketing program, driving millions of users back to our properties via compliant email and SMS messaging.
